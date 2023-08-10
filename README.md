@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/gabriella-codrington/CodePathProject1/assets/83388074/3d06648b-c708-4eaf-b07e-6136aed4b9fc)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/gabriella-codrington/CodePathProject1/assets/83388074/f92a539a-8105-4a7d-8b6e-1cfede77ebf5
 
 GIF created with Macbook Air
 
